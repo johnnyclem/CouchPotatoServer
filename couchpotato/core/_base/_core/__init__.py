@@ -26,7 +26,7 @@ config = [{
                 },
                 {
                     'name': 'port',
-                    'default': 5050,
+                    'default': 8083,
                     'type': 'int',
                     'description': 'The port I should listen to.',
                 },
